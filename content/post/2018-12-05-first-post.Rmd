@@ -1,0 +1,19 @@
+---
+title: First post
+author: me
+date: '2018-12-05'
+slug: first-post
+categories:
+  - R
+tags:
+  - R Markdown
+keywords: ~
+---
+
+Hallo.....
+
+
+```{r}
+values <- rnorm(10000)
+hist(values)
+```

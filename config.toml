@@ -1,0 +1,4 @@
+theme = "theer"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Katja Schueler's notebook"
